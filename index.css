@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+    background-color:lightgray;
+
+}
+
+.menu
+{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+
+#form_div
+{
+    display:block;
+    text-align: center;
+}
+
+#loginform
+{
+    position:absolute;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#rogzit_div
+{
+    display:block;
+    text-align: center;
+}
+
+#rogzit_form
+{
+    position:absolute;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
